@@ -1,2 +1,2 @@
 # Water-Level-Indicator
-Water Level Indicator
+The Water Level Indicator System is a practical and essential project designed to monitor and display the water level in a reservoir, tank, or any water storage container. It provides real-time information about water levels, helping users avoid overflows or water shortages. This project is an ideal choice for home automation, agriculture, or industrial applications where accurate water level management is crucial.
